@@ -1,0 +1,21 @@
+# Imágenes de disco y VMs
+*.iso
+*.vdi
+*.vmdk
+*.ova
+*.vbox
+
+# Claves (jamás subir)
+id_*
+!id_*.pub
+*.pem
+*.key
+
+# Video y proyectos de edición
+*.mp4
+*.prproj
+Adobe Premiere Pro Auto-Save/
+
+# Sistema
+Thumbs.db
+.DS_Store
